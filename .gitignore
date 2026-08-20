@@ -1,0 +1,6 @@
+data/
+*.mp3
+*.npy
+__pycache__/
+.env
+.ipynb_checkpoints/
