@@ -6,6 +6,12 @@ CREATE TABLE IF NOT EXISTS tracks (
   title        TEXT,
   artist       TEXT,
   tags         TEXT[],
-  duration_sec REAL,
-  embedding    vector(512)
+  duration_sec REAL
+);
+
+CREATE TABLE IF NOT EXISTS track_embeddings (
+  track_id   BIGINT REFERENCES tracks(id) ON DELETE CASCADE,
+  model_name TEXT NOT NULL,
+  embedding  vector(512) NOT NULL,
+  PRIMARY KEY (track_id, model_name)
 );
