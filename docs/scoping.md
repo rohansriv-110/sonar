@@ -39,6 +39,9 @@ Tag search fails because users describe vibes in free text and tags are sparse; 
 ## MVP log
 - run_001: CLAP larger_clap_music_and_speech, first 10s per track, 1102 tracks, ~30 ms/query on T4
 - Labeled so far: prompt 1 → [4], prompt 2 → [4]
+- Baseline (3 prompts): nDCG@10 = 0.29 → target 0.44
+- Finding: matches ranked low; "energetic electronic" had 0 matches
+- Debt: label prompts 4–10 before the eval-in-CI phases
 
 ## Parked ideas (only add if evals justify them)
 - LLM query decomposition: split the prompt into tags for hybrid search
