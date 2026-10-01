@@ -1,5 +1,5 @@
 from contextlib import asynccontextmanager
-import time, torch, psycopg
+import os, time, torch, psycopg
 from fastapi import FastAPI, HTTPException
 from pgvector.psycopg import register_vector
 from rank_bm25 import BM25Okapi
@@ -12,10 +12,12 @@ async def lifespan(app):
     name = 'laion/larger_clap_music_and_speech'
     S['model'] = ClapModel.from_pretrained(name).eval()
     S['proc'] = ClapProcessor.from_pretrained(name)
-    S['conn'] = psycopg.connect('postgresql://postgres:sonar@localhost:5433/postgres')
+    S['conn'] = psycopg.connect(os.environ.get('DATABASE_URL', 'postgresql://postgres:sonar@localhost:5433/postgres'))
     register_vector(S['conn'])
-    rows = S['conn'].execute('SELECT track_id, tag_text FROM tracks').fetchall()
-    S['ids'], S['tags'] = [r[0] for r in rows], dict(rows)
+    rows = S['conn'].execute('SELECT track_id, tag_text, path FROM tracks').fetchall()
+    S['ids'] = [r[0] for r in rows]
+    S['tags'] = {r[0]: r[1] for r in rows}
+    S['paths'] = {r[0]: r[2] for r in rows}
     S['bm25'] = BM25Okapi([(r[1] or '').split() for r in rows])
     yield
     S['conn'].close()
@@ -47,4 +49,9 @@ def search(q: str, k: int = 10):
     kw = [S['ids'][i] for i in s.argsort()[::-1][:50] if s[i] > 0]
     top = rrf(vec, kw)[:k]
     return {'q': q, 'ms': round((time.perf_counter() - t0) * 1000),
-            'results': [{'track_id': t, 'tags': S['tags'][t]} for t in top]}
+            'results': [{'track_id': t, 'tags': S['tags'][t], 'path': S['paths'][t]} for t in top]}
+
+@app.get('/health')
+def health():
+    n = S['conn'].execute('SELECT count(*) FROM tracks').fetchone()[0]
+    return {'status': 'ok', 'tracks': n}
