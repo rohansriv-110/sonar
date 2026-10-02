@@ -5,7 +5,7 @@ embs = np.load('data/phase2/phase2_embs.npy')
 rows = list(csv.DictReader(open('data/phase2/phase2_tracks.csv', encoding='utf-8')))
 assert len(rows) == len(embs) == 2000
 
-with psycopg.connect('postgresql://postgres:sonar@localhost:5433/postgres') as conn:
+with psycopg.connect('postgresql://postgres:sonar@localhost:5432/postgres') as conn:
     register_vector(conn)
     with conn.cursor() as cur:
         cur.executemany(
