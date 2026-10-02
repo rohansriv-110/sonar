@@ -19,8 +19,13 @@ def vector_top(qvec, n=50):
     return [r[0] for r in conn.execute(
         'SELECT track_id FROM tracks ORDER BY embedding <=> %s LIMIT %s', (qvec, n))]
 
+SYN = {'chill': 'chillout', 'synth': 'synthesizer', 'pads': 'pad',
+       'relaxing': 'relaxing', 'smooth': 'smoothjazz', 'lofi': 'lofi'}
+
 def keyword_top(text, n=50):
-    s = bm25.get_scores(text.lower().split())
+    words = text.lower().replace('-', '').split()
+    words += [SYN[w] for w in words if w in SYN]
+    s = bm25.get_scores(words)
     return [ids[i] for i in s.argsort()[::-1][:n] if s[i] > 0]
 
 def rrf(*lists, k=60):
