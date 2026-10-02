@@ -9,7 +9,7 @@ QUERIES = ["dark trap beat with heavy 808s", "nighttime jazz piano beat",
   "aggressive rock beat with distorted guitar", "romantic slow beat with acoustic guitar"]
 QVECS = np.load('data/phase2/phase2_queries.npy')
 
-conn = psycopg.connect('postgresql://postgres:sonar@localhost:5433/postgres')
+conn = psycopg.connect('postgresql://postgres:sonar@localhost:5432/postgres')
 register_vector(conn)
 rows = conn.execute('SELECT track_id, tag_text FROM tracks').fetchall()
 ids = [r[0] for r in rows]
