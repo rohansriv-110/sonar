@@ -2,7 +2,7 @@ import json, psycopg
 
 STOP = {'with', 'beat', 'and', 'the', 'a'}
 runs = json.load(open('data/phase2/phase3_runs.json'))
-with psycopg.connect('postgresql://postgres:sonar@localhost:5433/postgres') as conn:
+with psycopg.connect('postgresql://postgres:sonar@localhost:5432/postgres') as conn:
     tags = {r[0]: set((r[1] or '').split()) for r in conn.execute('SELECT track_id, tag_text FROM tracks')}
 
 def words(prompt):
