@@ -1,0 +1,974 @@
+[
+  {
+    "prompt_id": 1,
+    "track_id": "1247404",
+    "score": 0,
+    "reason": "Techno and electronic genres do not match the requested dark trap style with heavy 808s."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1070602",
+    "score": 1,
+    "reason": "The track has a hip-hop genre match, but lacks the specific dark trap mood and heavy 808s requested."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1218700",
+    "score": 0,
+    "reason": "The track has 80s and 90s tags rather than modern trap with heavy 808s."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1385203",
+    "score": 0,
+    "reason": "The chillout and electropop tags do not match the dark trap beat query."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1214604",
+    "score": 0,
+    "reason": "The track has atmospheric elements, but 90s acid jazz completely misses the dark trap beat with heavy 808s requirement."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1209403",
+    "score": 0,
+    "reason": "The track tags indicate a chillout and minimal electronic style rather than the requested dark trap genre with heavy 808s."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "434205",
+    "score": 0,
+    "reason": "The track has alternative, indie, and pop tags, which do not match the requested dark trap genre and heavy 808s."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "726601",
+    "score": 1,
+    "reason": "The track has a hip-hop genre and bass/drum machine matching the trap beat elements, but lacks a definitive dark mood or heavy 808-specific tags."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1210703",
+    "score": 0,
+    "reason": "The track features electronic and trip-hop elements with corporate and trailer moods, which completely misses the dark trap genre and heavy 808s requirement."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "195300",
+    "score": 0,
+    "reason": "The track genre is electronic and pop, which does not match the dark trap beat query."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1417902",
+    "score": 1,
+    "reason": "The hip-hop genre and beat instrument match the query, but the 60s tag and lack of mood tags prevent a full match."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1210705",
+    "score": 1,
+    "reason": "The track fits the genre and instrument criteria, but lacks specific mood indicators for dark trap and heavy 808s in the tags."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1325603",
+    "score": 1,
+    "reason": "The track has an electronic beat and synthesizer which fits the instrumental aspect, but lacks the specific dark trap mood and heavy 808s requested."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1248602",
+    "score": 1,
+    "reason": "The track matches the hip-hop genre and beat instrument, but lacks the specific dark trap style and heavy 808s requested."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1225502",
+    "score": 2,
+    "reason": "The track matches both the trap genre and the dark mood implied by the query."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "1406401",
+    "score": 1,
+    "reason": "The track matches the dark mood of the query, but lacks the specific trap genre and 808s elements."
+  },
+  {
+    "prompt_id": 1,
+    "track_id": "16101",
+    "score": 0,
+    "reason": "The track is heavy metal, which does not match the requested dark trap genre and 808s."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "718300",
+    "score": 1,
+    "reason": "The electric piano fits the piano element, but the bossa nova genre does not match the nighttime jazz mood request."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1371804",
+    "score": 0,
+    "reason": "The track lacks jazz, piano, and nighttime elements, featuring orchestral and harp instrumentation instead."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1395702",
+    "score": 0,
+    "reason": "The track tags indicate pop, christmas, and bells, which do not match the requested nighttime jazz piano vibe."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "588700",
+    "score": 1,
+    "reason": "The chillout and lounge tags capture the nighttime mood, but the specific jazz piano instrumentation requested is missing."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1317801",
+    "score": 1,
+    "reason": "The hip-hop genre and lounge mood match the nighttime vibe, but the piano instrument specified in the query is missing from the tags."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1420603",
+    "score": 1,
+    "reason": "The chillout and lounge tags capture the nighttime mood, but the specific jazz piano elements requested are missing."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "387705",
+    "score": 1,
+    "reason": "The track has an instrumental pop genre that could align with the vibe, but it lacks the specific jazz piano element requested in the query."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "876302",
+    "score": 1,
+    "reason": "The track matches the jazz genre, but the nighttime mood is not explicitly confirmed by the tags."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1324900",
+    "score": 1,
+    "reason": "The romantic mood matches the nighttime theme, but the genre and instruments do not feature jazz piano."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1296704",
+    "score": 1,
+    "reason": "The atmospheric mood fits the nighttime theme, but the jazz piano instrument requested in the query is missing."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1235602",
+    "score": 1,
+    "reason": "The track features the requested jazz genre and piano instrument, but lacks the nighttime mood in its tags."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1235604",
+    "score": 2,
+    "reason": "The track matches both the requested instrument (piano) and genre (jazz), while the query's mood (nighttime) is implied by the genre."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "81803",
+    "score": 2,
+    "reason": "The track matches the requested jazz genre and piano instrument, while the nighttime mood is well-suited for this style."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1069802",
+    "score": 1,
+    "reason": "The track matches the requested jazz genre and piano instrument, but the nighttime mood is not reflected in the tags."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1115400",
+    "score": 1,
+    "reason": "The track matches the jazz genre, but there is no indication of the specific nighttime mood or piano instrumentation in the tags."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1194605",
+    "score": 1,
+    "reason": "The track features the requested jazz piano instruments, but the bossanova and brazil tags do not match the nighttime vibe of the query."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1080204",
+    "score": 1,
+    "reason": "The track features a piano and beat matching the instrument query, but lacks the specific nighttime jazz mood."
+  },
+  {
+    "prompt_id": 2,
+    "track_id": "1154901",
+    "score": 1,
+    "reason": "The track has the right genre and piano instrument, but lacks the nighttime mood tag."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1257002",
+    "score": 1,
+    "reason": "The track matches the upbeat mood from the query, but lacks electronic drums and high energy specific tags."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1332600",
+    "score": 1,
+    "reason": "The track matches the electronic genre, but lacks specific tags confirming the energetic mood or punchy drums."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1164204",
+    "score": 2,
+    "reason": "The track matches the energetic mood and the electronic genre with appropriate instrument tags."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "155502",
+    "score": 1,
+    "reason": "The genre matches the electronic requirement, but the ambient mood contradicts the energetic and punchy vibe requested."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1234501",
+    "score": 1,
+    "reason": "The dance and club genres fit the electronic and club energy, but punchy drums and specific energetic electronic elements are not explicitly confirmed in the tags."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "133101",
+    "score": 1,
+    "reason": "The track matches the electronic genre, but the energy level and drum style cannot be verified from the tags alone."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1154904",
+    "score": 0,
+    "reason": "The track lacks electronic and energetic elements, featuring ambient and acoustic instruments instead."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "335602",
+    "score": 1,
+    "reason": "The track matches the electronic genre in the query, but lacks specific indicators for an energetic mood or punchy drums."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "316604",
+    "score": 1,
+    "reason": "Trance matches the electronic genre requirement, but the specific energetic mood and punchy drums are not confirmed by the tags alone."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "501200",
+    "score": 1,
+    "reason": "The track matches the electronic genre, but lacks the specific energetic and punchy mood requested."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1300000",
+    "score": 1,
+    "reason": "The track matches the energetic mood, but the electronic subgenres listed do not specifically deliver the punchy drums typical of a rap/singer beat."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1325603",
+    "score": 2,
+    "reason": "The track matches the requested electronic genre, instrument type, and energetic mood."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "1325602",
+    "score": 2,
+    "reason": "The track matches both the electronic genre and the energetic mood requested in the query."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "81202",
+    "score": 2,
+    "reason": "The track matches the requested electronic and hiphop genres, beat instrument, and implies an energetic mood through its electronic nature."
+  },
+  {
+    "prompt_id": 3,
+    "track_id": "108603",
+    "score": 2,
+    "reason": "The track matches the electronic genre, punchy drums, and provides an energetic feel suitable for the query."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "674304",
+    "score": 1,
+    "reason": "The track features a guitar, but the genres do not match lo-fi hip hop."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1115101",
+    "score": 1,
+    "reason": "The track matches the hip-hop genre, but lacks specific confirmation of the requested sad lo-fi mood and soft guitar elements."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1209403",
+    "score": 0,
+    "reason": "The track lacks both the requested lo-fi hip hop genre and soft guitar instrumentation."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1202100",
+    "score": 1,
+    "reason": "The acoustic guitar fits the instrument requirement, but the easy listening and wedding themes do not match the sad lo-fi hip hop query."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1086702",
+    "score": 1,
+    "reason": "The hip-hop genre matches, but the sad lo-fi mood and guitar instrument are missing from the tags."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1248601",
+    "score": 1,
+    "reason": "The track has hip-hop elements and a guitar, but the mood is dark instead of sad."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1154901",
+    "score": 1,
+    "reason": "The track features the requested guitar instrument, but lacks the specific lo-fi hip hop genre and sad mood tags."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1415803",
+    "score": 1,
+    "reason": "The atmospheric mood partially matches the sad lo-fi theme, but the piano instrument conflicts with the soft guitar requested."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1002000",
+    "score": 1,
+    "reason": "The chillout genre captures the mood, but the track lacks hip-hop and guitar elements."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1086704",
+    "score": 1,
+    "reason": "The track matches the hip-hop genre from the query, but lacks the specific sad lo-fi mood and soft guitar elements."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1248602",
+    "score": 2,
+    "reason": "The track matches the requested sad mood, hip-hop genre, and includes a guitar instrument."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "588700",
+    "score": 1,
+    "reason": "The track has the right soft mood, but lacks the specific hip-hop genre and guitar elements."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1324900",
+    "score": 0,
+    "reason": "The track lacks the requested hip-hop genre, lo-fi style, and guitar instrument."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1203201",
+    "score": 1,
+    "reason": "The track matches the sad mood, but lacks the specific lo-fi hip hop genre and soft guitar instrumentation."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1366003",
+    "score": 1,
+    "reason": "The track matches the sad mood and guitar instrument, but the genre is classical/downtempo instead of lo-fi hip hop."
+  },
+  {
+    "prompt_id": 4,
+    "track_id": "1366001",
+    "score": 1,
+    "reason": "The track matches the sad mood and guitar instrument, but the genres (dark ambient, downtempo) do not align with lo-fi hip hop."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1002004",
+    "score": 1,
+    "reason": "The chillout genre matches the relaxing mood, but the specific synth pads requested are not mentioned in the tags."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1341305",
+    "score": 1,
+    "reason": "The chillout genre matches the chill and relaxing mood, but the specific request for smooth synth pads is not confirmed by the tags."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1361403",
+    "score": 1,
+    "reason": "The track matches the chill and relaxing mood, but lacks synth pads and has an unfitting genre profile."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "674304",
+    "score": 0,
+    "reason": "The track tags feature rock, techno, and guitar, which do not match the requested chill electronic synth pad vibe."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "913700",
+    "score": 2,
+    "reason": "The track matches the chill mood and features electronic synthesizer instruments requested in the query."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1209403",
+    "score": 1,
+    "reason": "The track has a matching chill mood, but lacks the smooth synth pads requested in the query."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1178102",
+    "score": 1,
+    "reason": "The emotional mood aligns with a chill vibe, but electronic fusion with sitar does not feature smooth synth pads."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1320002",
+    "score": 1,
+    "reason": "The track matches the downtempo and hip-hop genres, but the upbeat and dark moods conflict with a chill and relaxing vibe."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "341805",
+    "score": 1,
+    "reason": "The easy-listening genre matches the chill and relaxing mood, but the track tags lack specific mention of synth pads."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1355200",
+    "score": 0,
+    "reason": "The track is country and pop with a guitar, which does not match the requested chill electronic synth pad vibe."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1250205",
+    "score": 1,
+    "reason": "The track matches the electronic instrument tag, but the dance and upbeat electropop mood do not fit a chill, relaxing aesthetic."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1281203",
+    "score": 1,
+    "reason": "The track has a hip-hop beat fitting the genre, but lacks the specific chill, relaxing mood and smooth synth pads requested in the query."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "897105",
+    "score": 2,
+    "reason": "The track matches the chill relaxing mood and the electronic/ambient genre which encompasses synth pads."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "1400503",
+    "score": 1,
+    "reason": "The track matches the relaxing mood of the query, but lacks the specific synth pad instrumentation."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "81202",
+    "score": 1,
+    "reason": "The track matches the hip-hop genre and beat instrument, but lacks specific mood and synth pad indicators."
+  },
+  {
+    "prompt_id": 5,
+    "track_id": "581705",
+    "score": 1,
+    "reason": "The track matches the 'beat' instrument requirement, but lacks the requested 'chill relaxing' mood and 'synth pads'."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "988504",
+    "score": 1,
+    "reason": "The track has a cinematic soundtrack genre and dramatic mood, but lacks the specific epic string elements requested."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1103301",
+    "score": 2,
+    "reason": "The track matches both the cinematic genre and the epic mood requested in the query."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1080900",
+    "score": 1,
+    "reason": "The track matches the cinematic mood and soundtrack/classical elements, but lacks the requested strings and specific epic beat elements."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "321102",
+    "score": 0,
+    "reason": "Hardstyle and techno genres do not match the requested epic cinematic style with strings."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1346501",
+    "score": 2,
+    "reason": "The track matches the cinematic genre, orchestral/classical elements, and epic mood requested in the query."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1012005",
+    "score": 2,
+    "reason": "The track features the requested epic mood along with cinematic classical and soundtrack elements."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "818600",
+    "score": 2,
+    "reason": "The track matches both the epic mood and the classical/orchestral elements implied by cinematic strings."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1270100",
+    "score": 1,
+    "reason": "The track features the correct orchestral genre and strings, but the mood is happy and romantic rather than epic and cinematic."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1397104",
+    "score": 2,
+    "reason": "The track matches the epic cinematic mood and features classical and orchestral elements which correspond to strings."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1196203",
+    "score": 1,
+    "reason": "The track matches the cinematic soundtrack mood, but lacks the specific epic style, beat, and string instrumentation requested."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "818601",
+    "score": 1,
+    "reason": "The track matches the epic mood of the query, but lacks the specific hip-hop beat element."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1220705",
+    "score": 2,
+    "reason": "The track matches both the requested epic mood and the cinematic style through orchestral and soundtrack tags."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "818605",
+    "score": 2,
+    "reason": "The track matches both the epic cinematic mood and features symphonic strings fitting the query."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1032804",
+    "score": 2,
+    "reason": "The track matches the genre/rap context and includes strings, fulfilling the core elements of the query."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1281100",
+    "score": 2,
+    "reason": "The track matches both the requested genre elements (orchestral/soundtrack with strings) and the mood (epic and dramatic)."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "579303",
+    "score": 1,
+    "reason": "The track matches the epic mood, but lacks the cinematic, strings, and beat elements specified in the query."
+  },
+  {
+    "prompt_id": 6,
+    "track_id": "1250200",
+    "score": 1,
+    "reason": "The track has the requested strings and beat, but the happy pop mood does not fit the epic cinematic vibe."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "718300",
+    "score": 0,
+    "reason": "The track is bossanova and easy listening, which does not match a happy upbeat funk beat with bass guitar."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1193203",
+    "score": 1,
+    "reason": "The track features a guitar, matching part of the instrument request, but lacks the funk genre and upbeat mood."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1245901",
+    "score": 1,
+    "reason": "The track matches the funk genre and bass instrument, but the mood is sexy rather than happy and upbeat."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1274505",
+    "score": 1,
+    "reason": "The track has some instrumental elements like acid jazz that relate to funk, but the mood is chill and smooth rather than happy and upbeat."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1112004",
+    "score": 1,
+    "reason": "The mood matches the happy requirement, but the electronic and alternative genre tags miss the specific funk beat and bass guitar elements."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1208603",
+    "score": 1,
+    "reason": "The 70s genre fits the funk aspect, but acid jazz does not clearly deliver the requested happy, upbeat mood and prominent bass guitar."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "387705",
+    "score": 0,
+    "reason": "The track tags indicate easy listening and instrumental pop, which do not match the requested funk genre and upbeat mood."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1208604",
+    "score": 0,
+    "reason": "The chillout and lounge tags do not match the happy and upbeat mood or the funk genre and bass guitar requested."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1324902",
+    "score": 0,
+    "reason": "The track has none of the requested funk, upbeat mood, or bass guitar elements."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1087105",
+    "score": 1,
+    "reason": "The mood is happy and upbeat, but the genre and instruments are country and rock rather than funk."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1288103",
+    "score": 2,
+    "reason": "The track matches the happy mood and funk genre requested in the query."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1264201",
+    "score": 1,
+    "reason": "The track matches the requested funk genre and bass instrument, but the deep mood contradicts the upbeat requirement."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1166100",
+    "score": 1,
+    "reason": "The track matches the happy and upbeat mood, but the genre and instruments do not fit funk, bass guitar, or beats."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "892004",
+    "score": 2,
+    "reason": "The track matches the requested funk genre, bass instrument, and upbeat groovy mood."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1257002",
+    "score": 2,
+    "reason": "The track matches both the requested genre (funk) and mood (upbeat), while also featuring a requested instrument (guitar)."
+  },
+  {
+    "prompt_id": 7,
+    "track_id": "1236401",
+    "score": 1,
+    "reason": "The track matches the happy and upbeat mood, but the genre and instrumentation (indie rock/ska) do not fit the requested funk beat with bass guitar."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1341305",
+    "score": 1,
+    "reason": "The chillout and easy listening tags capture the dreamy ambient mood, but there are no tags for piano or beat."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "318602",
+    "score": 1,
+    "reason": "The genre fits the ambient mood, but there is no indication of a reverb piano."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1080204",
+    "score": 2,
+    "reason": "The track features a hip-hop beat and piano, matching the requested genre and instruments while aligning with a dreamy, ambient vibe."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1163803",
+    "score": 1,
+    "reason": "The track has an ambient genre match, but lacks the specific dreamy, reverb piano, and vocal beat elements requested."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1242604",
+    "score": 0,
+    "reason": "The track is orchestral and soundtrack-oriented, lacking the requested dreamy ambient beat with reverb piano."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "674304",
+    "score": 1,
+    "reason": "The track features a piano and new age elements which partially fit the ambient vibe, but lacks the specific dreamy, reverb-heavy beat requested."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "729300",
+    "score": 0,
+    "reason": "The track is classical and orchestral film music lacking any hip-hop beat elements or a reverb piano."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1107103",
+    "score": 1,
+    "reason": "The synthesizer matches the ambient mood, but the track lacks the requested piano and dreamy vibe."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1326602",
+    "score": 2,
+    "reason": "The track features a matching ambient genre and a chillout mood suitable for a dreamy piano beat."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "436705",
+    "score": 1,
+    "reason": "The track matches the ambient mood, but lacks the specific reverb piano element requested in the query."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "81202",
+    "score": 1,
+    "reason": "The track has the right hip-hop genre and beat instrument, but lacks the specific dreamy ambient mood and reverb piano from the query."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "579303",
+    "score": 1,
+    "reason": "The track shares the ambient genre from the query, but lacks the specific dreamy, reverb piano, and beat instrument elements."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1250200",
+    "score": 1,
+    "reason": "The track features the requested piano and beat instruments, but the happy mood and pop genre do not match the dreamy ambient request."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1184701",
+    "score": 0,
+    "reason": "The track lacks the required dreamy ambient mood and piano instrument, only matching the general beat tag."
+  },
+  {
+    "prompt_id": 8,
+    "track_id": "1417902",
+    "score": 1,
+    "reason": "The track matches the hiphop beat genre, but lacks the specific dreamy, ambient, and reverb piano mood requested."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "993603",
+    "score": 1,
+    "reason": "The track matches the rock genre and electric guitar instrument from the query, but lacks the specific aggressive mood and distorted guitar elements."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "604301",
+    "score": 1,
+    "reason": "The track shares the rock genre and guitar instrumentation, but lacks the specific aggressive and distorted qualities requested in the query."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1056504",
+    "score": 1,
+    "reason": "The track matches the rock genre and electric guitar instrument, but lacks the specific aggressive mood and distorted elements requested."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "361701",
+    "score": 2,
+    "reason": "The track features a heavy metal genre and electric guitar, perfectly matching the aggressive rock and distorted guitar query."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "25402",
+    "score": 2,
+    "reason": "The track features hard rock and metal genres which align well with the requested rock genre and aggressive guitar sound."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1417801",
+    "score": 1,
+    "reason": "The track has the matching rock genre and guitar instrument, but lacks the specific aggressive mood and distorted guitar elements requested."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1124504",
+    "score": 1,
+    "reason": "The track has the matching rock genre and electric guitar, but lacks the specific aggressive and distorted mood requested."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "400403",
+    "score": 2,
+    "reason": "The track matches both the requested rock genre and implies the aggressive mood with distorted guitar from the query."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1417802",
+    "score": 2,
+    "reason": "The track features a rock/grunge genre and guitar instrumentation that matches the query, and rock tracks with guitar naturally fit an aggressive mood."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1166202",
+    "score": 2,
+    "reason": "The track matches both the requested rock/metal genre and the aggressive mood implied by the query."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1417803",
+    "score": 1,
+    "reason": "The track matches the rock genre and guitar instrument, but lacks the aggressive mood and distorted guitar specified in the query."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1281204",
+    "score": 1,
+    "reason": "The track has a rap genre fit, but lacks the specific aggressive rock beat and distorted guitar elements."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1417804",
+    "score": 1,
+    "reason": "The track matches the rock genre and guitar instrument, but lacks tags for an aggressive mood or distorted guitar."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "1317901",
+    "score": 1,
+    "reason": "The track matches the rock genre and guitar instrument, but the fun mood contradicts the aggressive query."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "45500",
+    "score": 2,
+    "reason": "The track matches the aggressive mood and the rock/punk genre requested in the query."
+  },
+  {
+    "prompt_id": 9,
+    "track_id": "581705",
+    "score": 0,
+    "reason": "The track is pop and catchy, which fails to match the aggressive rock and distorted guitar query."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1001903",
+    "score": 1,
+    "reason": "The genre fits the chill/pop vibe, but there is no indication of a romantic mood or acoustic guitar in the tags."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1066500",
+    "score": 0,
+    "reason": "The track has none of the requested romantic, slow, or acoustic guitar elements."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1001904",
+    "score": 1,
+    "reason": "The chillout and pop tags fit the slow romantic mood, but there is no indication of an acoustic guitar."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "876302",
+    "score": 1,
+    "reason": "The jazz genre can accommodate slow tempos, but it lacks the specific acoustic guitar instrumentation requested."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1361402",
+    "score": 0,
+    "reason": "The track has an upbeat mood and holiday theme, which contradicts the romantic and slow requirements of the query."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "729300",
+    "score": 0,
+    "reason": "The track is classical and orchestral film music, which does not fit the slow romantic acoustic guitar beat query for rappers or singers."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1329204",
+    "score": 0,
+    "reason": "The track is rock/soundtrack and does not match the requested romantic acoustic hip-hop/R&B beat style."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1279604",
+    "score": 0,
+    "reason": "The track has an industrial, corporate, and motivational style, which completely clashes with the requested romantic, slow, acoustic guitar vibe."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1395702",
+    "score": 0,
+    "reason": "The track lacks both the requested romantic slow mood and the acoustic guitar instrument."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1170600",
+    "score": 1,
+    "reason": "The track features a guitar instrument matching part of the query, but the melancholic mood contradicts the romantic requirement."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1236403",
+    "score": 1,
+    "reason": "The track matches the slow tempo and guitar instrument, but lacks the specific romantic theme and acoustic guitar requested."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1184701",
+    "score": 1,
+    "reason": "The track has a slow lounge/easylistening vibe, but lacks the specific acoustic guitar requested in the query."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "399202",
+    "score": 2,
+    "reason": "The track matches the romantic and mellow mood of the query and features a suitable easy listening pop style."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1403901",
+    "score": 1,
+    "reason": "The track matches the slow tempo and guitar instrument, but blues is not typically associated with a romantic acoustic beat."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "581705",
+    "score": 1,
+    "reason": "The track features a guitar and beat, but the mood is catchy rather than romantic."
+  },
+  {
+    "prompt_id": 10,
+    "track_id": "1230805",
+    "score": 0,
+    "reason": "The track has a slow mood, but lacks both the romantic theme and the acoustic guitar requested in the query."
+  }
+]
